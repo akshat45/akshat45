@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshat Gupta
-- 👀 I’m interested in Competitive Coding,Android Development(Flutter) and Web Development
+- 👀 I’m interested in Competitive Coding,Android Development(Flutter) and Web Development(MERN Stack)
 - 📫 Connect with me on linkedin https://www.linkedin.com/in/akshat-gupta-856397191/
 
 <!---
