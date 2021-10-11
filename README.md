@@ -8,6 +8,7 @@ Hi, I am Akshat Gupta, I am currently a Third year student at [IIIT Gwalior](htt
 - 👯 I’m looking to collaborate on Node.js and Flutter.
 - 💬 Ask me about MERN and C++.
 - 📫 Reach me here  Email: [akshatg450@gmail.com](mailto:akshatg450@gmail.com).
+- 🤝🏻 Connect with me on [<img src="https://img.icons8.com/color/24/000000/linkedin.png"/>](https://www.linkedin.com/in/akshat-gupta-856397191/)
 
 *Tools and Softwares:*  
 <img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> <img title="Github" src="https://img.icons8.com/fluency/40/000000/github.png"/>
