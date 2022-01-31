@@ -31,4 +31,4 @@ Hi, I am Akshat Gupta, I am currently a Third year student at [IIIT Gwalior](htt
 <br>![](https://komarev.com/ghpvc/?username=akshat45&color=dc143c)</br>
 <br>[![akshat45's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat45&show_icons=true&theme=radical)](https://github.com/akshat45/github-readme-stats)</br>
 <br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat45&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat45&hide=css,scss,html&theme=tokyonight)
