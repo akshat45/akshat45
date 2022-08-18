@@ -4,8 +4,8 @@
 Hi, I am Akshat Gupta, I am currently a Third year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I’m currently working on Something Coming Soon.
-- 🌱 I’m currently learning React.js.
-- 👯 I’m looking to collaborate on Node.js and Flutter.
+- 🌱 I’m currently exploring Data Science Domain.
+- 👯 I’m looking to collaborate on MERN Stack related Web Development projects.
 - 💬 Ask me about MERN and C++.
 - 📫 Reach me here  Email: [akshatg450@gmail.com](mailto:akshatg450@gmail.com).
 - 🤝🏻 Connect with me on [<img src="https://img.icons8.com/color/24/000000/linkedin.png"/>](https://www.linkedin.com/in/akshat-gupta-856397191/)
