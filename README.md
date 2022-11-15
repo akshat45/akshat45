@@ -1,7 +1,7 @@
 ### <div align="center"> Hi there, Its me Akshat Gupta <img alt="gif" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="height: 40px"/></div>
 <hr/>
 
-Hi, I am Akshat Gupta, I am currently a Third year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
+Hi, I am Akshat Gupta, I am currently a pre final year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I’m currently working on Something Coming Soon.
 - 🌱 I’m currently exploring Data Science Domain.
