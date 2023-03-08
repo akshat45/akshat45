@@ -4,7 +4,7 @@
 Hi, I am Akshat Gupta, I am currently a pre final year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I’m currently working on Something Coming Soon.
-- 🌱 I’m currently exploring Data Science Domain.
+- 🌱 I’m currently exploring Data Science Domain, Evolutionary Algorithms and Next.js.
 - 👯 I’m looking to collaborate on MERN Stack related Web Development projects.
 - 💬 Ask me about MERN and C++.
 - 📫 Reach me here  Email: [akshatgup45@gmail.com](mailto:akshatgup45@gmail.com).
